@@ -1,0 +1,19 @@
+{
+  "wheel_id": 366,
+  "structure": "umbrella",
+  "slug": "kitchenrenovationnorthbrisbane-com-102",
+  "project": "kitchen-renovation-north-brisbane-costs-776e3a24cef628d5dfb0021",
+  "parent_t1_ref": "kitchenrenovationnorthbrisbane-com-150",
+  "node_role": "feeder",
+  "money_target": "kitchenrenovationnorthbrisbane.com.au",
+  "primary_kw": "kitchen renovation north brisbane costs",
+  "intended_url": "http://kitchen-renovation-north-brisbane-costs-776e3a24cef628d5dfb0021.s3-website-ap-southeast-2.amazonaws.com/index.html",
+  "writeback_nonce": "c34743d7f332bc07",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/kitchen-renovation-north-brisbane-4a66b097f4088b4778bbbcf3b1b78/",
+      "anchor": "kitchen renovation north brisbane",
+      "rel": "follow"
+    }
+  ]
+}
